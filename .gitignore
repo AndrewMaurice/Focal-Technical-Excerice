@@ -1,0 +1,125 @@
+# .NET and ASP.NET Core related files
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.user
+*.vspscc
+*.vssscc
+*.pdb
+*.mdb
+*.cache
+*.ilk
+*.meta
+*.csproj.user
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider specific files
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/app.iml
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/databases.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/sqllite.xml
+.idea/**/dynamic.xml
+.idea/**/webServers.xml
+.idea/**/jarRepositories.xml
+.idea/**/vcs.xml
+.idea/**/assetWizard.xml
+.idea/**/filetypes.xml
+.idea/**/repository.xml
+.idea/**/xml-data/
+.idea/**/layout.xml
+.idea/**/runConfigurations.xml
+
+# Visual Studio files
+.vscode/
+.vs/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mac specific files
+*.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider specific files
+.idea/
+*.sln.iml
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+*.bak
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+*.nlog
+
+# NuGet Packages
+*.nupkg
+*.nuget
+packages/
+NUGET_PACKAGES/
+.nuget/
+
+# Dotnet CLI files
+.dotnet_cli_tool/
+dotnet-tools.json
+
+# Entity Framework Core Migrations
+Migrations/
+
+# App settings and secrets
+appsettings.json
+appsettings.Development.json
+secrets.json
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+*.sqlite
+*.sqlite3
+
+# Publish output
+publish/
+wwwroot/
+
+# Swagger
+swagger/
+swagger-ui/
+
+# CSV files (if you do not want to track CSV files)
+*.csv
+
+# Other environments
+node_modules/
+.env
+*.pem
+*.cer
+*.crt
+*.pfx
